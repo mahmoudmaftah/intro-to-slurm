@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "ex4B.py", line 13, in <module>
+    a, b, c, d = [float(i) for i in input().split()]
+  File "<string>", line 1
+    1 0 -2 8
+      ^
+SyntaxError: invalid syntax

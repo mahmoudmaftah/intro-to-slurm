@@ -1,0 +1,143 @@
+       JobID    JobName  Partition    Account  AllocCPUS      State ExitCode 
+------------ ---------- ---------- ---------- ---------- ---------- -------- 
+5844450       ex1.slurm       defq sccs-dna-+          1  COMPLETED      0:0 
+5844450.bat+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844451      allocation       defq sccs-dna-+          1  COMPLETED      0:0 
+5844451.bat+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844452_10   ex3_array+       defq sccs-dna-+          3  COMPLETED      0:0 
+5844452_10.+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844452_1    ex3_array+       defq sccs-dna-+          3  COMPLETED      0:0 
+5844452_1.b+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844452_2    ex3_array+       defq sccs-dna-+          3  COMPLETED      0:0 
+5844452_2.b+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844452_3    ex3_array+       defq sccs-dna-+          3  COMPLETED      0:0 
+5844452_3.b+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844452_4    ex3_array+       defq sccs-dna-+          3  COMPLETED      0:0 
+5844452_4.b+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844452_5    ex3_array+       defq sccs-dna-+          3  COMPLETED      0:0 
+5844452_5.b+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844452_6    ex3_array+       defq sccs-dna-+          3  COMPLETED      0:0 
+5844452_6.b+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844452_7    ex3_array+       defq sccs-dna-+          3  COMPLETED      0:0 
+5844452_7.b+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844452_8    ex3_array+       defq sccs-dna-+          3  COMPLETED      0:0 
+5844452_8.b+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844452_9    ex3_array+       defq sccs-dna-+          3  COMPLETED      0:0 
+5844452_9.b+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844462       ex1.slurm       defq sccs-dna-+          1  COMPLETED      0:0 
+5844462.bat+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844463      allocation       defq sccs-dna-+          1  COMPLETED      0:0 
+5844463.bat+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844464_10   ex3_array+       defq sccs-dna-+          3  COMPLETED      0:0 
+5844464_10.+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844464_1    ex3_array+       defq sccs-dna-+          3  COMPLETED      0:0 
+5844464_1.b+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844464_2    ex3_array+       defq sccs-dna-+          3  COMPLETED      0:0 
+5844464_2.b+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844464_3    ex3_array+       defq sccs-dna-+          3  COMPLETED      0:0 
+5844464_3.b+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844464_4    ex3_array+       defq sccs-dna-+          3  COMPLETED      0:0 
+5844464_4.b+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844464_5    ex3_array+       defq sccs-dna-+          3  COMPLETED      0:0 
+5844464_5.b+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844464_6    ex3_array+       defq sccs-dna-+          3  COMPLETED      0:0 
+5844464_6.b+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844464_7    ex3_array+       defq sccs-dna-+          3  COMPLETED      0:0 
+5844464_7.b+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844464_8    ex3_array+       defq sccs-dna-+          3  COMPLETED      0:0 
+5844464_8.b+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844464_9    ex3_array+       defq sccs-dna-+          3  COMPLETED      0:0 
+5844464_9.b+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844474       ex1.slurm       defq sccs-dna-+          1  COMPLETED      0:0 
+5844474.bat+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844475      allocation       defq sccs-dna-+          1  COMPLETED      0:0 
+5844475.bat+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844476_11   ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844476_11.+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844476_2    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844476_2.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844476_3    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844476_3.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844476_4    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844476_4.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844476_5    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844476_5.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844476_6    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844476_6.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844476_7    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844476_7.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844476_8    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844476_8.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844476_9    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844476_9.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844476_10   ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844476_10.+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844486             ex4       defq sccs-dna-+          2  COMPLETED      0:0 
+5844486.bat+      batch            sccs-dna-+          2  COMPLETED      0:0 
+5844487            ex4A       defq sccs-dna-+          3     FAILED      1:0 
+5844487.bat+      batch            sccs-dna-+          3     FAILED      1:0 
+5844488            ex4B       defq sccs-dna-+          3 CANCELLED+      0:0 
+5844489       ex1.slurm       defq sccs-dna-+          1  COMPLETED      0:0 
+5844489.bat+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844490      allocation       defq sccs-dna-+          1  COMPLETED      0:0 
+5844490.bat+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844491_11   ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844491_11.+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844491_2    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844491_2.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844491_3    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844491_3.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844491_4    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844491_4.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844491_5    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844491_5.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844491_6    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844491_6.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844491_7    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844491_7.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844491_8    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844491_8.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844491_9    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844491_9.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844491_10   ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844491_10.+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844501             ex4       defq sccs-dna-+          2  COMPLETED      0:0 
+5844501.bat+      batch            sccs-dna-+          2  COMPLETED      0:0 
+5844502            ex4A       defq sccs-dna-+          3  COMPLETED      0:0 
+5844502.bat+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844503            ex4B       defq sccs-dna-+          3     FAILED      1:0 
+5844503.bat+      batch            sccs-dna-+          3     FAILED      1:0 
+5844504       ex1.slurm       defq sccs-dna-+          1  COMPLETED      0:0 
+5844504.bat+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844505      allocation       defq sccs-dna-+          1  COMPLETED      0:0 
+5844505.bat+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844506_11   ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844506_11.+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844506_2    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844506_2.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844506_3    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844506_3.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844506_4    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844506_4.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844506_5    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844506_5.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844506_6    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844506_6.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844506_7    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844506_7.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844506_8    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844506_8.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844506_9    ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844506_9.b+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844506_10   ex3_array+       defq sccs-dna-+          1  COMPLETED      0:0 
+5844506_10.+      batch            sccs-dna-+          1  COMPLETED      0:0 
+5844516             ex4       defq sccs-dna-+          2  COMPLETED      0:0 
+5844516.bat+      batch            sccs-dna-+          2  COMPLETED      0:0 
+5844517            ex4A       defq sccs-dna-+          3  COMPLETED      0:0 
+5844517.bat+      batch            sccs-dna-+          3  COMPLETED      0:0 
+5844518            ex4B       defq sccs-dna-+          3     FAILED      1:0 
+5844518.bat+      batch            sccs-dna-+          3     FAILED      1:0 
+5844519             ex5       defq sccs-dna-+          3 CANCELLED+      0:0 
+5844519.bat+      batch            sccs-dna-+          3  CANCELLED     0:15 
+5844520       ex6.slurm       defq sccs-dna-+          1     FAILED     11:0 
+5844520.bat+      batch            sccs-dna-+          1     FAILED     11:0 
