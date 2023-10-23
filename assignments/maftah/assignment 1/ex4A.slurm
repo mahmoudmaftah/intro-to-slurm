@@ -9,7 +9,7 @@
 
 module load Python/3.8.6-GCCcore-10.2.0
 
-python ex4A.py | echo "1 0 -2"
+python ex4A.py
 
 
 
